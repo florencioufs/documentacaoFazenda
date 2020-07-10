@@ -1,2 +1,17 @@
 # documentacaoFazenda
-Documentação do software desenvolvido durante as disciplinas de Desenvolvimento de Software II e Desenvolvimento de Software III
+Documentação do software desenvolvido durante as disciplinas de Desenvolvimento de Software II no período 2016.2 e testado durante a disciplina de Desenvolvimento de Software III no período 2017.1.
+
+Equipe: 
+
+ALICE RODRIGUES SANTOS
+ARTUR SANTOS NASCIMENTO
+ELIAS RABELO MATOS
+FELIPE DE ALMEIDA FLORENCIO
+GABRIEL LEITE LIMA
+GIVALDO MARQUES DOS SANTOS
+HUGO VINICIUS DANTAS BARRETO
+JOAO MANOEL PIMENTEL CORREIA
+JUSLEY ARLEY DE OLIVEIRA TAVARES
+MARINA VIVAS ANDRADE REIS
+NATA DE ALEXANDRIA MENEZES
+PATRICK JONES DE SOUZA CRUZ
